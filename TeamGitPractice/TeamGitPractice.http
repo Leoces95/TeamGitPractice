@@ -1,0 +1,6 @@
+@TeamGitPractice_HostAddress = http://localhost:5171
+
+GET {{TeamGitPractice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
