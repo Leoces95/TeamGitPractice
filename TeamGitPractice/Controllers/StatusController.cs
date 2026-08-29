@@ -11,5 +11,11 @@ namespace TeamGitPractice.Controllers
         {
             return Ok(new { status = "API is running" });
         }
+
+        [HttpGet("team")]
+        public IActionResult GetTeamStatus()
+        {
+            return Ok(new { team = "Spectrum Deploy", status = "Ready" });
+        }
     }
 }
