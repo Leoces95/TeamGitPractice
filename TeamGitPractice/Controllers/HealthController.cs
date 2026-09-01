@@ -10,4 +10,10 @@ public class HealthController : ControllerBase
     {
         return Ok(new { healthy = true });
     }
+
+    [HttpGet("time")]
+    public IActionResult GetTime()
+    {
+        return Ok(new { utcTime = DateTime.UtcNow });
+    }
 }
