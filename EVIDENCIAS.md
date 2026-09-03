@@ -1,0 +1,7 @@
+| Integrante                      | Rama-Personal   | Commit Consola                           | Commit Visual Studio                     | Pull Request                                       | Reviewer             |
+| :------------------------------ | :-------------- | :--------------------------------------- | :--------------------------------------- | :------------------------------------------------- | :------------------- |
+| Leonel Antonio Martínez silgado | leonel-martinez | d8192548ee54883b37e440736ba8c55e79254b3c | 9bbc4cf734cd0f98ae3fa4a7121426ea778679e1 | https://github.com/Leoces95/TeamGitPractice/pull/1 | Daniel Zapata        |
+| Daniel Zapata Ramírez           | daniel-zapata   | 8530a8b0d41f736aeb021bec21d849858e8c0bfc | 8c0f828fc6cbf40c3935d9976fd13ddfc6b33a81 | https://github.com/Leoces95/TeamGitPractice/pull/2 | Maria Paulina Vargas |
+| María Paulina Vargas Lenis      | paulina-vargas  | a0d04b46dfeec98089ebbb206bfb92546612f477 | 6c0a42edc604b453f3c8d99fa5c75f69f2bb27e8 | https://github.com/Leoces95/TeamGitPractice/pull/4 | Mariana Suaza        |
+| Mariana Suaza Serna             | mariana-suaza   | 4cf9f4c2a84a4e95e9ae0f1c176b5af89c984c0b | 60f46c72e600d33a68b6efa80f43b347bc4f2083 | https://github.com/Leoces95/TeamGitPractice/pull/5 | Sebastian Ciro       |
+| Sebastian Ciro Medellin         | sebastian-ciro  | 09dc555ca282a98cdc768a31e903e35c4ead661a | 8437f8ad942bfa5281cc57b50237b67f3825244f | https://github.com/Leoces95/TeamGitPractice/pull/3 | Leonel Martinez      |
